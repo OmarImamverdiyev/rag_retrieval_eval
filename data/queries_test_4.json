@@ -1,0 +1,22 @@
+[
+  {
+    "query_id": "q1",
+    "question": "What features does the new Azerbaijani NLP platform offer?",
+    "relevant_doc_id": "doc_4"
+  },
+  {
+    "query_id": "q2",
+    "question": "How can the platform improve news classification and search accuracy?",
+    "relevant_doc_id": "doc_4"
+  },
+  {
+    "query_id": "q3",
+    "question": "Azerbaijani language AI platform for semantic similarity and search",
+    "relevant_doc_id": "doc_4"
+  },
+  {
+    "query_id": "q4",
+    "question": "NLP API services for Azerbaijani news",
+    "relevant_doc_id": "doc_4"
+  }
+]

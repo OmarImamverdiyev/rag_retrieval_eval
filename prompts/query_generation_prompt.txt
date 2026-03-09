@@ -1,0 +1,23 @@
+You are generating search queries for a semantic search dataset.
+
+Given the news passage, generate 4 realistic search queries.
+
+Rules:
+- Queries must be in Azerbaijani (Latin script) only
+- Queries must be different from the title
+- Do not copy phrases from the text
+- Queries must sound natural and human-written
+- Use grammatically correct Azerbaijani; avoid broken or telegraphic phrasing
+- Do not stuff many named entities into one query unless essential
+- Use different styles:
+  1 factual question
+  1 why/how question
+  1 paraphrase query
+  1 short keyword-style query (still natural, not a random word list)
+- Queries must look like real search engine queries
+- Keep queries between 5 and 12 words
+
+Return JSON list only.
+
+PASSAGE:
+{news_passage}

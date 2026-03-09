@@ -1,0 +1,10 @@
+sentence-transformers
+faiss-cpu
+rank-bm25
+qdrant-client
+protobuf>=6.31.1
+numpy
+pandas
+tqdm
+scikit-learn
+openai>=1.0.0

@@ -1,0 +1,1482 @@
+[
+  {
+    "query_id": "q1",
+    "question": "Sumqayıtda transformator yanğınının səbəbləri nə ola bilər",
+    "relevant_doc_id": "8491055"
+  },
+  {
+    "query_id": "q2",
+    "question": "Yanğın zamanı zavod həyətində hansı təhlükəsizlik tədbirləri görüldü",
+    "relevant_doc_id": "8491055"
+  },
+  {
+    "query_id": "q3",
+    "question": "Sumqayıtda zavod həyətində transformatorun alışması xəbəri",
+    "relevant_doc_id": "8491055"
+  },
+  {
+    "query_id": "q4",
+    "question": "Sumqayıt transformator yanğın söndürmə əməliyyatı",
+    "relevant_doc_id": "8491055"
+  },
+  {
+    "query_id": "q5",
+    "question": "Dünya yeni bir qaranlıq dövrə niyə daxil olur?",
+    "relevant_doc_id": "6883279"
+  },
+  {
+    "query_id": "q6",
+    "question": "Bəşəriyyətin tənəzzül ehtimalları haqqında nə düşünmək lazımdır",
+    "relevant_doc_id": "6883279"
+  },
+  {
+    "query_id": "q7",
+    "question": "Nayib Bukelenin qlobal təhlükə barədə xəbərdarlığının mahiyyəti nədir",
+    "relevant_doc_id": "6883279"
+  },
+  {
+    "query_id": "q8",
+    "question": "qlobal münaqişə və tənəzzül xəbərdarlığı",
+    "relevant_doc_id": "6883279"
+  },
+  {
+    "query_id": "q9",
+    "question": "Şəkidə baş vermiş avtomobil qəzasında kimlər yaralanıb?",
+    "relevant_doc_id": "13917810"
+  },
+  {
+    "query_id": "q10",
+    "question": "Niyə Şəki şəhərində iki minik avtomobili toqquşdu və səbəbləri nədir?",
+    "relevant_doc_id": "13917810"
+  },
+  {
+    "query_id": "q11",
+    "question": "Şəki yol qəzasında ‘Opel’ və ‘Hunday’ markalı maşınların toqquşması haqqında məlumat",
+    "relevant_doc_id": "13917810"
+  },
+  {
+    "query_id": "q12",
+    "question": "Şəki qəza xəbərləri xəsarət alanların xəstəxanaya yerləşdirilməsi",
+    "relevant_doc_id": "13917810"
+  },
+  {
+    "query_id": "q13",
+    "question": "Azərbaycanda neft emalının yarımillikdə niyə azaldığı barədə sorğu",
+    "relevant_doc_id": "11597305"
+  },
+  {
+    "query_id": "q14",
+    "question": "Neft emalının ilin ilk yarısında hansı amillərdən azaldığı necə izah olunur",
+    "relevant_doc_id": "11597305"
+  },
+  {
+    "query_id": "q15",
+    "question": "Ölkədə neft istehsalının və emalının son statistik göstəriciləri",
+    "relevant_doc_id": "11597305"
+  },
+  {
+    "query_id": "q16",
+    "question": "Bakı Neft Emalı Zavodu yenidənqurma işləri təsiri",
+    "relevant_doc_id": "11597305"
+  },
+  {
+    "query_id": "q17",
+    "question": "Ağcabədidə narkotik qaçaqmalçılığı necə aşkarlanıb?",
+    "relevant_doc_id": "6613463"
+  },
+  {
+    "query_id": "q18",
+    "question": "Narkokuryerin xarici əlaqələri və istintaqın gedişi nədir?",
+    "relevant_doc_id": "6613463"
+  },
+  {
+    "query_id": "q19",
+    "question": "Ağcabədidə 2 kiloqramdan artıq heroin götürülməsi xəbəri",
+    "relevant_doc_id": "6613463"
+  },
+  {
+    "query_id": "q20",
+    "question": "heroin saxlanılması və həbs qətimkan tədbiri case",
+    "relevant_doc_id": "6613463"
+  },
+  {
+    "query_id": "q21",
+    "question": "Almaniya kansleri Merzin Ukrayna barədə mövqeyi nədir",
+    "relevant_doc_id": "12151221"
+  },
+  {
+    "query_id": "q22",
+    "question": "Niyə Ukraynanın təslim olması Rusiyaya imkan yaradar",
+    "relevant_doc_id": "12151221"
+  },
+  {
+    "query_id": "q23",
+    "question": "Merzin Putinin növbəti müharibə riski ilə bağlı açıqlamasının xülasəsi",
+    "relevant_doc_id": "12151221"
+  },
+  {
+    "query_id": "q24",
+    "question": "Ukrayna kapitulyasiya təhlükəsi və Avropa reaksiyası",
+    "relevant_doc_id": "12151221"
+  },
+  {
+    "query_id": "q25",
+    "question": "Lukaşenkonun müharibənin bu il bitəcəyi barədə proqnozu nədir?",
+    "relevant_doc_id": "9072056"
+  },
+  {
+    "query_id": "q26",
+    "question": "Lukaşenko niyə danışıqların əsas rol oynayacağını düşünür?",
+    "relevant_doc_id": "9072056"
+  },
+  {
+    "query_id": "q27",
+    "question": "Belarus prezidentinin Ukrayna müharibəsi ilə bağlı sözlərinin mənası",
+    "relevant_doc_id": "9072056"
+  },
+  {
+    "query_id": "q28",
+    "question": "Ukrayna müharibəsi danışıqlar və kompromis perspektivləri",
+    "relevant_doc_id": "9072056"
+  },
+  {
+    "query_id": "q29",
+    "question": "Parklanma üçün sürücülərdən pul tələb edilməsi qanunsuzdursa nə etməliyəm?",
+    "relevant_doc_id": "7152729"
+  },
+  {
+    "query_id": "q30",
+    "question": "Bakı şəhərində parklanmanın yeni qaydaları necə tətbiq olunur və nəyi dəyişdi?",
+    "relevant_doc_id": "7152729"
+  },
+  {
+    "query_id": "q31",
+    "question": "Avtomobil park yerlərinin 1-2 saatlıq istifadəsi ilə bağlı yenilənmiş tənzimləmə",
+    "relevant_doc_id": "7152729"
+  },
+  {
+    "query_id": "q32",
+    "question": "Bakı mərkəzində parklanma problemləri və həll yolları",
+    "relevant_doc_id": "7152729"
+  },
+  {
+    "query_id": "q33",
+    "question": "Prezident Əliyevə İran Prezidenti hansı səbəbdən zəng etdi?",
+    "relevant_doc_id": "8582210"
+  },
+  {
+    "query_id": "q34",
+    "question": "İran liderinin başsağlığı zəngi haqqında nə üçün məlumat verildi?",
+    "relevant_doc_id": "8582210"
+  },
+  {
+    "query_id": "q35",
+    "question": "Pezeşkianın Əliyevə dəstək və başsağlığı mesajının məzmunu necə idi",
+    "relevant_doc_id": "8582210"
+  },
+  {
+    "query_id": "q36",
+    "question": "İlham Əliyevə başsağlığı zəngi, təyyarə qəzası xəbərləri",
+    "relevant_doc_id": "8582210"
+  },
+  {
+    "query_id": "q37",
+    "question": "Azərbaycan və AEBA arasında əməkdaşlıq hansı sahələri əhatə edir?",
+    "relevant_doc_id": "6891816"
+  },
+  {
+    "query_id": "q38",
+    "question": "Nüvə təhlükəsizliyinin gücləndirilməsi üçün Azərbaycan necə addımlar atır?",
+    "relevant_doc_id": "6891816"
+  },
+  {
+    "query_id": "q39",
+    "question": "Bakıda keçiriləcək iqlim konfransı ilə AEBA əməkdaşlığı barədə məlumat",
+    "relevant_doc_id": "6891816"
+  },
+  {
+    "query_id": "q40",
+    "question": "Azərbaycan AEBA çərçivə proqramı əməkdaşlıq detalları",
+    "relevant_doc_id": "6891816"
+  },
+  {
+    "query_id": "q41",
+    "question": "Bakı-Dubay reysinin geri qayıtmasının səbəbləri nədir",
+    "relevant_doc_id": "4292587"
+  },
+  {
+    "query_id": "q42",
+    "question": "Niyə hava şəraiti Dubayda uçuşlara təsir etdi necə məlumat almaq olar",
+    "relevant_doc_id": "4292587"
+  },
+  {
+    "query_id": "q43",
+    "question": "AZAL-ın Dubay marşrutu üzrə reysinin dayandırılması xəbəri",
+    "relevant_doc_id": "4292587"
+  },
+  {
+    "query_id": "q44",
+    "question": "AZAL Bakı-Dubay reysi əlaqə məlumatları və sorğu",
+    "relevant_doc_id": "4292587"
+  },
+  {
+    "query_id": "q45",
+    "question": "Novosaratovkada azərbaycanlının ölüm səbəbi nədir?",
+    "relevant_doc_id": "6233983"
+  },
+  {
+    "query_id": "q46",
+    "question": "Moskvaya yaxın kənddə qətl necə baş verib?",
+    "relevant_doc_id": "6233983"
+  },
+  {
+    "query_id": "q47",
+    "question": "Rusiyada yaşayan azərbaycanlı tapança ilə öldürüldü xəbəri",
+    "relevant_doc_id": "6233983"
+  },
+  {
+    "query_id": "q48",
+    "question": "Leninqrad vilayətində azərbaycanlı qətl hadisəsi araşdırılır",
+    "relevant_doc_id": "6233983"
+  },
+  {
+    "query_id": "q49",
+    "question": "Masallıda bıçaqlama hadisəsinin təfərrüatları nədir",
+    "relevant_doc_id": "8039233"
+  },
+  {
+    "query_id": "q50",
+    "question": "Gənc şəxsin yağışma zamanı niyə qətl törətdiyi məlumdurmu",
+    "relevant_doc_id": "8039233"
+  },
+  {
+    "query_id": "q51",
+    "question": "Siruz Mehdiyev bıçaqlanaraq öldürülməsi xəbərinin xülasəsi",
+    "relevant_doc_id": "8039233"
+  },
+  {
+    "query_id": "q52",
+    "question": "Masallı qətl hadisəsi saxlanılan şəxs",
+    "relevant_doc_id": "8039233"
+  },
+  {
+    "query_id": "q53",
+    "question": "Daşkənddəki Mexrli məktəbinin fəaliyyəti haqqında nə məlumat var?",
+    "relevant_doc_id": "6383958"
+  },
+  {
+    "query_id": "q54",
+    "question": "Birinci xanımlar Mexrli məktəbində hansı proqramları nəzərdən keçiriblər və niyə?",
+    "relevant_doc_id": "6383958"
+  },
+  {
+    "query_id": "q55",
+    "question": "Mexrli məktəbi ilə tanışlıq səfərinin məqsədinin qısa izahı",
+    "relevant_doc_id": "6383958"
+  },
+  {
+    "query_id": "q56",
+    "question": "Daşkənd Mexrli məktəbi ziyarəti xəbəri",
+    "relevant_doc_id": "6383958"
+  },
+  {
+    "query_id": "q57",
+    "question": "Niyə İsrail BMT baş katibini ölkəyə buraxmır?",
+    "relevant_doc_id": "7218091"
+  },
+  {
+    "query_id": "q58",
+    "question": "İsrael Katzin Quterreşə qarşı qərarı necə əsaslandırılıb?",
+    "relevant_doc_id": "7218091"
+  },
+  {
+    "query_id": "q59",
+    "question": "BMT baş katibinin ölkəyə girişinə qoyulan qadağa ilə bağlı xəbərlər",
+    "relevant_doc_id": "7218091"
+  },
+  {
+    "query_id": "q60",
+    "question": "İsrailin xarici işlər naziri Quterreş qərarı dəstəyi statistikası",
+    "relevant_doc_id": "7218091"
+  },
+  {
+    "query_id": "q61",
+    "question": "Türkiyədə son əməliyyatlarda nə qədər insan saxlanıldı?",
+    "relevant_doc_id": "8664005"
+  },
+  {
+    "query_id": "q62",
+    "question": "Bu qədər əhatəli əməliyyat necə və nə vaxt həyata keçirildi?",
+    "relevant_doc_id": "8664005"
+  },
+  {
+    "query_id": "q63",
+    "question": "Türkiyənin 57 regionu üzrə İŞİD əməliyyatının xülasəsi",
+    "relevant_doc_id": "8664005"
+  },
+  {
+    "query_id": "q64",
+    "question": "İŞİD əməliyyatı Türkiyə saxlanılanlar sayı",
+    "relevant_doc_id": "8664005"
+  },
+  {
+    "query_id": "q65",
+    "question": "Gəncədə piyadanın vurulması ilə bağlı araşdırma necə aparılır?",
+    "relevant_doc_id": "9953383"
+  },
+  {
+    "query_id": "q66",
+    "question": "Niyə Gəncədə uşaqlar yolu keçərkən təhlükəsiz deyil?",
+    "relevant_doc_id": "9953383"
+  },
+  {
+    "query_id": "q67",
+    "question": "Gəncədə 15 yaşlı qızın avtomobil qəzası xəbəri necədir",
+    "relevant_doc_id": "9953383"
+  },
+  {
+    "query_id": "q68",
+    "question": "Gəncə avtomobil piyadanı vurub xəstəxana vəziyyəti",
+    "relevant_doc_id": "9953383"
+  },
+  {
+    "query_id": "q69",
+    "question": "Bu ilin yanvar-avqustunda yağ istehsalı idxalı necə üstələdi?",
+    "relevant_doc_id": "7111239"
+  },
+  {
+    "query_id": "q70",
+    "question": "Azərbaycanda kərə yağının istehsal artımının səbəbləri nədir?",
+    "relevant_doc_id": "7111239"
+  },
+  {
+    "query_id": "q71",
+    "question": "2024-cü ilin ilk səkkiz ayında kərə yağının idxalı və istehsalı statistikasının xülasəsi",
+    "relevant_doc_id": "7111239"
+  },
+  {
+    "query_id": "q72",
+    "question": "kərə yağı istehsalı və orta satış qiymətləri 2024",
+    "relevant_doc_id": "7111239"
+  },
+  {
+    "query_id": "q73",
+    "question": "OBA marketlərinin ağacəkmə layihəsi necə təşkil edildi?",
+    "relevant_doc_id": "7673123"
+  },
+  {
+    "query_id": "q74",
+    "question": "Niyə müştərilərdən ianə yolu ilə ağac əkilməsi təşəbbüsü başlandı?",
+    "relevant_doc_id": "7673123"
+  },
+  {
+    "query_id": "q75",
+    "question": "Qalib ruhlar üçün yaşıl toxumlar layihəsinin məqsədi nədir?",
+    "relevant_doc_id": "7673123"
+  },
+  {
+    "query_id": "q76",
+    "question": "OBA ağacəkmə aksiyası iştirak və ianə şərtləri",
+    "relevant_doc_id": "7673123"
+  },
+  {
+    "query_id": "q77",
+    "question": "Çexiya Ukraynanın daxili qarışıq bölmələrinə necə yardım edə bilər?",
+    "relevant_doc_id": "5780260"
+  },
+  {
+    "query_id": "q78",
+    "question": "Ukraynanın daxili işlər nazirinin Praqaya səfərinin əsas nəticələri nədir?",
+    "relevant_doc_id": "5780260"
+  },
+  {
+    "query_id": "q79",
+    "question": "Çexiyanın hərbi texnika və silah yardımı barədə məlumat",
+    "relevant_doc_id": "5780260"
+  },
+  {
+    "query_id": "q80",
+    "question": "Çexiya Ukrayna daxili işlər texnika dəstəyi",
+    "relevant_doc_id": "5780260"
+  },
+  {
+    "query_id": "q81",
+    "question": "Livanın cənubunda pilotsuz təyyarə qəzasının təfərrüatları nədir",
+    "relevant_doc_id": "12165449"
+  },
+  {
+    "query_id": "q82",
+    "question": "Niyə PUA yoxlanış zamanı partlaya bilər və təhlükəsizlik tədbirləri necə olmalıdır",
+    "relevant_doc_id": "12165449"
+  },
+  {
+    "query_id": "q83",
+    "question": "Suriyada yox, Livanda Naqoura hadisəsinin baş vermə səbəbi nədir",
+    "relevant_doc_id": "12165449"
+  },
+  {
+    "query_id": "q84",
+    "question": "Livan PUA partlayış qəza xəbəri",
+    "relevant_doc_id": "12165449"
+  },
+  {
+    "query_id": "q85",
+    "question": "Daxili işlər orqanlarında xidmət üçün seçim mərhələləri necədir?",
+    "relevant_doc_id": "6036911"
+  },
+  {
+    "query_id": "q86",
+    "question": "Niyə onlayn müraciət edən gənclərin seçimi əlverişli sayılır və necə aparılır?",
+    "relevant_doc_id": "6036911"
+  },
+  {
+    "query_id": "q87",
+    "question": "Vilayət Eyvazovun gənclərə verdiyi tövsiyələrin xülasəsi",
+    "relevant_doc_id": "6036911"
+  },
+  {
+    "query_id": "q88",
+    "question": "gənclər üçün polisə qəbulla bağlı sıra baxışı 2024",
+    "relevant_doc_id": "6036911"
+  },
+  {
+    "query_id": "q89",
+    "question": "Çin ilə Avropa arasında yüklərin tranzitində Azərbaycan niyə önə çıxır?",
+    "relevant_doc_id": "6786833"
+  },
+  {
+    "query_id": "q90",
+    "question": "Bakıda logistika forumunda nəqliyyat marşrutları necə müzakirə olundu?",
+    "relevant_doc_id": "6786833"
+  },
+  {
+    "query_id": "q91",
+    "question": "Azərbaycanın dəniz və dəmir yolu infrastrukturunun üstünlükləri",
+    "relevant_doc_id": "6786833"
+  },
+  {
+    "query_id": "q92",
+    "question": "Çin-Avropa yüklərinin təhlükəsiz tranziti axtarışı",
+    "relevant_doc_id": "6786833"
+  },
+  {
+    "query_id": "q93",
+    "question": "Noyabr ayında Azərbaycanda yağışın norma civarında olma səbəbləri nədir?",
+    "relevant_doc_id": "7547802"
+  },
+  {
+    "query_id": "q94",
+    "question": "Bu noyabr üçün gözlənilən temperatur dəyişiklikləri necə olacaq?",
+    "relevant_doc_id": "7547802"
+  },
+  {
+    "query_id": "q95",
+    "question": "Noyabr hava proqnozu: Bakı və Abşeron üçün orta temperatur gözləntiləri",
+    "relevant_doc_id": "7547802"
+  },
+  {
+    "query_id": "q96",
+    "question": "noyabr hava proqnozu Azərbaycanda yağış miqdarı",
+    "relevant_doc_id": "7547802"
+  },
+  {
+    "query_id": "q97",
+    "question": "Qəzzada yeni idarəetmə strukturu necə formalaşacaq?",
+    "relevant_doc_id": "14074215"
+  },
+  {
+    "query_id": "q98",
+    "question": "Hakan Fidanın qəzza ilə bağlı risklər barədə söylədikləri nədir?",
+    "relevant_doc_id": "14074215"
+  },
+  {
+    "query_id": "q99",
+    "question": "Qəzzada texnokratik hökumət və Sülh Şurası planı nə gözlənilir",
+    "relevant_doc_id": "14074215"
+  },
+  {
+    "query_id": "q100",
+    "question": "Qəzza idarəçiliyi və region üçün perspektivlər",
+    "relevant_doc_id": "14074215"
+  },
+  {
+    "query_id": "q101",
+    "question": "Mahir Səfərli hansı region üzrə BMT QAK nümayəndəsidir?",
+    "relevant_doc_id": "14447656"
+  },
+  {
+    "query_id": "q102",
+    "question": "Niyə Mahir Səfərli Mərkəzi Asiya üzrə təyinat aldı və səbəbləri nədir?",
+    "relevant_doc_id": "14447656"
+  },
+  {
+    "query_id": "q103",
+    "question": "BMT QAK-ın Almatı regional ofisinin yeni rəhbərinin tərcümeyi-halı",
+    "relevant_doc_id": "14447656"
+  },
+  {
+    "query_id": "q104",
+    "question": "Mərkəzi Asiya BMT QAK nümayəndəliyi təyinatı xəbəri",
+    "relevant_doc_id": "14447656"
+  },
+  {
+    "query_id": "q105",
+    "question": "ABŞ Ukraynadakı münaqişədə vasitəçi kimi hansı imkanlara malikdir?",
+    "relevant_doc_id": "14508100"
+  },
+  {
+    "query_id": "q106",
+    "question": "Niyə Vaşinqton qarşı tərəfləri danışıqlara məcbur etmir və səbəbləri nədir?",
+    "relevant_doc_id": "14508100"
+  },
+  {
+    "query_id": "q107",
+    "question": "Rubio ABŞ-ın müharibəni dayandırmaq əzmi və rolunu necə izah etdi",
+    "relevant_doc_id": "14508100"
+  },
+  {
+    "query_id": "q108",
+    "question": "ABŞ vasitəçilik və diplomatiya diplomatik səylər",
+    "relevant_doc_id": "14508100"
+  },
+  {
+    "query_id": "q109",
+    "question": "Naxçıvanbankın bank olmayan kredit təşkilatına çevrilməsi nə deməkdir?",
+    "relevant_doc_id": "5431483"
+  },
+  {
+    "query_id": "q110",
+    "question": "Bu dəyişiklik müştərilərin kredit hüquqlarını necə təsir edəcək?",
+    "relevant_doc_id": "5431483"
+  },
+  {
+    "query_id": "q111",
+    "question": "Naxçıvanbankın yenidən təşkili haqqında məlumat və müraciət qaydaları",
+    "relevant_doc_id": "5431483"
+  },
+  {
+    "query_id": "q112",
+    "question": "Naxçıvanbank çevrilmə prosesi müraciət ünvanları",
+    "relevant_doc_id": "5431483"
+  },
+  {
+    "query_id": "q113",
+    "question": "“Birləşdik -2024” təlimində hansı hazırlıq tapşırıqları görülüb?",
+    "relevant_doc_id": "5688608"
+  },
+  {
+    "query_id": "q114",
+    "question": "Hərbi qulluqçular ştat silahlarını necə döyüş vəziyyətinə gətiriblər?",
+    "relevant_doc_id": "5688608"
+  },
+  {
+    "query_id": "q115",
+    "question": "Beynəlxalq əməliyyat-taktiki təlimdə birgə fəaliyyət necə təşkil olunur",
+    "relevant_doc_id": "5688608"
+  },
+  {
+    "query_id": "q116",
+    "question": "hərbi təlim hazırlıq mərhələsi əsas məqamlar",
+    "relevant_doc_id": "5688608"
+  },
+  {
+    "query_id": "q117",
+    "question": "Xersondakı kafenin dron hücumunda ölənlərin dəqiq sayı nədir",
+    "relevant_doc_id": "13914143"
+  },
+  {
+    "query_id": "q118",
+    "question": "Niyə Xersonda mülki obyektlər pilotsuz uçuş aparatları ilə vuruldu",
+    "relevant_doc_id": "13914143"
+  },
+  {
+    "query_id": "q119",
+    "question": "Xorlı kəndində otel və kafeyə edilən zərbələrin xəbərlərinin xülasəsi",
+    "relevant_doc_id": "13914143"
+  },
+  {
+    "query_id": "q120",
+    "question": "Xerson dron hücumu ölüm və xəsarət statistikası",
+    "relevant_doc_id": "13914143"
+  },
+  {
+    "query_id": "q121",
+    "question": "Azərbaycanın Suriyada məktəb tikintisinə nə dərəcədə yardım göstərəcəyi barədə sual",
+    "relevant_doc_id": "14521209"
+  },
+  {
+    "query_id": "q122",
+    "question": "Bu saziş necə Suriya məktəblərinin yenidən qurulmasını sürətləndirəcək",
+    "relevant_doc_id": "14521209"
+  },
+  {
+    "query_id": "q123",
+    "question": "Azərbaycanın Suriyada zədələnmiş məktəblərin bərpasına dəstəyi barədə aydınlaşdırma",
+    "relevant_doc_id": "14521209"
+  },
+  {
+    "query_id": "q124",
+    "question": "Suriyada təhsil infrastrukturu bərpa layihəsi",
+    "relevant_doc_id": "14521209"
+  },
+  {
+    "query_id": "q125",
+    "question": "Ermənistan Türkiyədəki regional görüşdə niyə tərəddüd edir?",
+    "relevant_doc_id": "5956986"
+  },
+  {
+    "query_id": "q126",
+    "question": "Ermənistanın “3+3” görüşündə iştirakı barədə son açıqlama nədir?",
+    "relevant_doc_id": "5956986"
+  },
+  {
+    "query_id": "q127",
+    "question": "İrəvanın toplantıya qatılmamaq qərarı nə ilə bağlı ola bilər?",
+    "relevant_doc_id": "5956986"
+  },
+  {
+    "query_id": "q128",
+    "question": "“3+3” formatlı regional görüş iştirak məsələsi",
+    "relevant_doc_id": "5956986"
+  },
+  {
+    "query_id": "q129",
+    "question": "Teleradio Akademiyasında media üçün dil təlimlərinin məqsədi nədir",
+    "relevant_doc_id": "14011487"
+  },
+  {
+    "query_id": "q130",
+    "question": "Mediada Azərbaycan dilinin qorunması üçün necə tədbirlər görülür",
+    "relevant_doc_id": "14011487"
+  },
+  {
+    "query_id": "q131",
+    "question": "Azərbaycan mediasında dil bacarıqlarının artırılması təlimləri",
+    "relevant_doc_id": "14011487"
+  },
+  {
+    "query_id": "q132",
+    "question": "media üçün Azərbaycan dili təlimləri iştirakçılar sayı",
+    "relevant_doc_id": "14011487"
+  },
+  {
+    "query_id": "q133",
+    "question": "Təyyarə qəzasında ekipajın fədakarlığı necə qiymətləndirilir?",
+    "relevant_doc_id": "8730928"
+  },
+  {
+    "query_id": "q134",
+    "question": "Pilotlar niyə son reys olduqlarını anlayaraq belə addım atdılar?",
+    "relevant_doc_id": "8730928"
+  },
+  {
+    "query_id": "q135",
+    "question": "Prezidentin ekipaj üzvləri ilə görüşündə əsas mesajlar nə idi?",
+    "relevant_doc_id": "8730928"
+  },
+  {
+    "query_id": "q136",
+    "question": "təyyarə qəzası qəhrəmanlıq və peşəkarlıq müzakirəsi",
+    "relevant_doc_id": "8730928"
+  },
+  {
+    "query_id": "q137",
+    "question": "2024-cü ilin avqustunda Azərbaycanda qiymət artımının səbəbləri nədir?",
+    "relevant_doc_id": "6674254"
+  },
+  {
+    "query_id": "q138",
+    "question": "İstehlak qiymətləri indeksi avqust ayında necə dəyişib?",
+    "relevant_doc_id": "6674254"
+  },
+  {
+    "query_id": "q139",
+    "question": "Azərbaycanın orta illik inflyasiyası və aylıq göstəricilər haqqında məlumat",
+    "relevant_doc_id": "6674254"
+  },
+  {
+    "query_id": "q140",
+    "question": "avqust 2024 inflyasiya və xidmət qiymətləri statistikası",
+    "relevant_doc_id": "6674254"
+  },
+  {
+    "query_id": "q141",
+    "question": "Türkiyə Müdafiə Nazirliyinin paylaşımı hansı məzmunda oldu?",
+    "relevant_doc_id": "5440986"
+  },
+  {
+    "query_id": "q142",
+    "question": "Niyə Türkiyə Azərbaycan Silahlı Qüvvələrini təbrik etdi və məqsədi nə idi?",
+    "relevant_doc_id": "5440986"
+  },
+  {
+    "query_id": "q143",
+    "question": "Türkiyənin Azərbaycanla hərbi həmrəyliyi barədə xəbər necə ifadə olunur?",
+    "relevant_doc_id": "5440986"
+  },
+  {
+    "query_id": "q144",
+    "question": "Azərbaycan Silahlı Qüvvələri üçün Türkiyənin təbrik mesajı",
+    "relevant_doc_id": "5440986"
+  },
+  {
+    "query_id": "q145",
+    "question": "David Babayan hansı ittihamlar əsasında ömürlük həbs edilib?",
+    "relevant_doc_id": "14349608"
+  },
+  {
+    "query_id": "q146",
+    "question": "Niyə məhkəmə Babayana ən ağır cəzanı təyin etdi və əsasları nədir?",
+    "relevant_doc_id": "14349608"
+  },
+  {
+    "query_id": "q147",
+    "question": "Ermənistan vətəndaşlarının məhkəməsində çıxarılan hökm necə izah olunur?",
+    "relevant_doc_id": "14349608"
+  },
+  {
+    "query_id": "q148",
+    "question": "Ermənistan müharibə cinayətləri məhkəməsi qərarı",
+    "relevant_doc_id": "14349608"
+  },
+  {
+    "query_id": "q149",
+    "question": "Qubada güclü külək hansı ərazilərdə fəsadlar törədib?",
+    "relevant_doc_id": "6526966"
+  },
+  {
+    "query_id": "q150",
+    "question": "Niyə külək şəhərdə iri ağacları kökündən çıxarır və yağışdan fərqi nədir?",
+    "relevant_doc_id": "6526966"
+  },
+  {
+    "query_id": "q151",
+    "question": "Qubada ağacın avtomobilə düşməsi ilə bağlı xəbər xülasəsi",
+    "relevant_doc_id": "6526966"
+  },
+  {
+    "query_id": "q152",
+    "question": "Quba külək zərər, elektrik xətləri kəsildi",
+    "relevant_doc_id": "6526966"
+  },
+  {
+    "query_id": "q153",
+    "question": "Netanyahu təhlükəsizlik müşavirəsi nədən ibarət olacaq?",
+    "relevant_doc_id": "14019170"
+  },
+  {
+    "query_id": "q154",
+    "question": "Netanyahunun təhlükəsizlik komandası hansı məsələləri müzakirə edəcək",
+    "relevant_doc_id": "14019170"
+  },
+  {
+    "query_id": "q155",
+    "question": "İsrail baş nazirinin nazirlər və təhlükəsizlik rəsmiləri ilə görüşü haqqında xəbər",
+    "relevant_doc_id": "14019170"
+  },
+  {
+    "query_id": "q156",
+    "question": "Netanyahu təhlükəsizlik toplantısı xəbər konteksti",
+    "relevant_doc_id": "14019170"
+  },
+  {
+    "query_id": "q157",
+    "question": "Ağdamda yeni körpələr evi-uşaq bağçası nə zaman istifadəyə verildi?",
+    "relevant_doc_id": "11662719"
+  },
+  {
+    "query_id": "q158",
+    "question": "Niyə azad edilmiş ərazilərdə məktəbəqədər müəssisələrin tikintisi prioritetdir?",
+    "relevant_doc_id": "11662719"
+  },
+  {
+    "query_id": "q159",
+    "question": "Ağdamdakı 160 yerlik bağçanın tikintisi və xüsusiyyətləri haqqında məlumat",
+    "relevant_doc_id": "11662719"
+  },
+  {
+    "query_id": "q160",
+    "question": "Ağdam körpələr evi-uşaq bağçası açılışı 160 yerlik müəssisə",
+    "relevant_doc_id": "11662719"
+  },
+  {
+    "query_id": "q161",
+    "question": "Xocavəndə yeni köç dalğası hansı kəndlərə yönəlib?",
+    "relevant_doc_id": "14498715"
+  },
+  {
+    "query_id": "q162",
+    "question": "Köçürülən ailələr niyə Hadrut və Qırmızı Bazara göndərilir?",
+    "relevant_doc_id": "14498715"
+  },
+  {
+    "query_id": "q163",
+    "question": "Hadrut və Qırmızı Bazarda yerləşdirilən ailələrin sayı nə qədərdir",
+    "relevant_doc_id": "14498715"
+  },
+  {
+    "query_id": "q164",
+    "question": "Xocavəndə müvəqqəti məskunlaşma və köç karvanları",
+    "relevant_doc_id": "14498715"
+  },
+  {
+    "query_id": "q165",
+    "question": "Halliburton-un Hyustondakı ofisinə necə kiberhücum oldu?",
+    "relevant_doc_id": "6354114"
+  },
+  {
+    "query_id": "q166",
+    "question": "Neft xidmətləri şirkətinin rabitə şəbəkəsi niyə zərər gördü?",
+    "relevant_doc_id": "6354114"
+  },
+  {
+    "query_id": "q167",
+    "question": "Halliburton kiberhücumundan xəbərlər və təfərrüatlar",
+    "relevant_doc_id": "6354114"
+  },
+  {
+    "query_id": "q168",
+    "question": "kiberhücum Halliburton Hyuston filialı təsiri",
+    "relevant_doc_id": "6354114"
+  },
+  {
+    "query_id": "q169",
+    "question": "2024-cü ilin ilk yarısında avtomobil idxalı statistikası necədir?",
+    "relevant_doc_id": "5805994"
+  },
+  {
+    "query_id": "q170",
+    "question": "Avtomobil idxalının sayının azalmasına səbəblər nədən ibarətdir?",
+    "relevant_doc_id": "5805994"
+  },
+  {
+    "query_id": "q171",
+    "question": "Yanvar-iyun 2024 avtomobil idxalının dəyəri və miqdarı fərqi",
+    "relevant_doc_id": "5805994"
+  },
+  {
+    "query_id": "q172",
+    "question": "elektrikli avtomobillərin idxal artımı 2024 statistikası",
+    "relevant_doc_id": "5805994"
+  },
+  {
+    "query_id": "q173",
+    "question": "Qızılın dekabr fyuçers qiymətindəki azalma nədən yaranıb?",
+    "relevant_doc_id": "12113885"
+  },
+  {
+    "query_id": "q174",
+    "question": "Qızıl və gümüş bazarlarında son qiymət dəyişiklikləri necədir?",
+    "relevant_doc_id": "12113885"
+  },
+  {
+    "query_id": "q175",
+    "question": "COMEX-də dekabr ayı qızıl fyuçerslərinin yeni qiymətləri nə qədərdir?",
+    "relevant_doc_id": "12113885"
+  },
+  {
+    "query_id": "q176",
+    "question": "qızıl və gümüş fyuçers bazarı trend analizi",
+    "relevant_doc_id": "12113885"
+  },
+  {
+    "query_id": "q177",
+    "question": "Azərbaycanın xarici borcunun ÜDM-ə nisbətinin azalmasının səbəbi nədir?",
+    "relevant_doc_id": "6367620"
+  },
+  {
+    "query_id": "q178",
+    "question": "1 iyul 2024-cü il tarixinə xarici borcun valyuta tərkibi necə bölünüb?",
+    "relevant_doc_id": "6367620"
+  },
+  {
+    "query_id": "q179",
+    "question": "Xarici dövlət borcunun portfelində əsas kreditçilərin paylarının açıqlanması",
+    "relevant_doc_id": "6367620"
+  },
+  {
+    "query_id": "q180",
+    "question": "xarici borc azalması avrobond ödənişi təsiri",
+    "relevant_doc_id": "6367620"
+  },
+  {
+    "query_id": "q181",
+    "question": "ABŞ birjalarında sentyabrın 10-u indeklərin günlük dəyişimi nə oldu",
+    "relevant_doc_id": "6671085"
+  },
+  {
+    "query_id": "q182",
+    "question": "Sentyabrın 10-da Avropa indekslərinin niyə dəyəri düşdü necə izah olunur",
+    "relevant_doc_id": "6671085"
+  },
+  {
+    "query_id": "q183",
+    "question": "dünya birjalarında FTSE, DAX və CAC-40 göstəricilərinin azalma hesabatı",
+    "relevant_doc_id": "6671085"
+  },
+  {
+    "query_id": "q184",
+    "question": "sentyabr 10 bazar indeksləri və avro-dollar məzənnəsi",
+    "relevant_doc_id": "6671085"
+  },
+  {
+    "query_id": "q185",
+    "question": "Şuşada keçirilən səhiyyə nazirləri toplantısının gündəliyi nədir?",
+    "relevant_doc_id": "7128031"
+  },
+  {
+    "query_id": "q186",
+    "question": "TDT ölkələri arasında tibb sahəsində əməkdaşlıq necə inkişaf etdiriləcək?",
+    "relevant_doc_id": "7128031"
+  },
+  {
+    "query_id": "q187",
+    "question": "Türk Dövlətləri Səhiyyə Nazirləri IV iclasında hansı sənədlər imzalanacaq",
+    "relevant_doc_id": "7128031"
+  },
+  {
+    "query_id": "q188",
+    "question": "Şuşa səhiyyə nazirləri görüşü memorandumlar imzalanması",
+    "relevant_doc_id": "7128031"
+  },
+  {
+    "query_id": "q189",
+    "question": "Bakıda hansı avtobus marşrutları istiqamət dəyişəcək və nə vaxt",
+    "relevant_doc_id": "9166320"
+  },
+  {
+    "query_id": "q190",
+    "question": "Niyə Aşıq Molla Cümə dairəsində təmir işləri avtobus marşrutlarını təsir edir",
+    "relevant_doc_id": "9166320"
+  },
+  {
+    "query_id": "q191",
+    "question": "17, 24 və 211 nömrəli marşrutların yeni hərəkət sxemi necədir",
+    "relevant_doc_id": "9166320"
+  },
+  {
+    "query_id": "q192",
+    "question": "Nərimanov rayonunda avtobus marşrut dəyişikliyi",
+    "relevant_doc_id": "9166320"
+  },
+  {
+    "query_id": "q193",
+    "question": "Azərbaycan neftinin son qiymət düşməsinin səbəbləri nədir?",
+    "relevant_doc_id": "6948894"
+  },
+  {
+    "query_id": "q194",
+    "question": "Azeri Light neftinin qiyməti bu günə necə dəyişib?",
+    "relevant_doc_id": "6948894"
+  },
+  {
+    "query_id": "q195",
+    "question": "Azərbaycan neftinin barel qiymətində bir dolların üzərindən azalma",
+    "relevant_doc_id": "6948894"
+  },
+  {
+    "query_id": "q196",
+    "question": "Azeri Light qiymətində son trendlər və ticarət məlumatları",
+    "relevant_doc_id": "6948894"
+  },
+  {
+    "query_id": "q197",
+    "question": "Qızılın qiymət artımının əsas səbəbləri nələrdir?",
+    "relevant_doc_id": "7973455"
+  },
+  {
+    "query_id": "q198",
+    "question": "Nyu-York əmtəə birjasında qızılın son göstəriciləri necə dəyişib?",
+    "relevant_doc_id": "7973455"
+  },
+  {
+    "query_id": "q199",
+    "question": "Dünya bazarında qızıl və gümüş qiymətlərinin artması xəbəri necə ifadə olunur",
+    "relevant_doc_id": "7973455"
+  },
+  {
+    "query_id": "q200",
+    "question": "qızıl və gümüş fyuçersləri qiymət artımı",
+    "relevant_doc_id": "7973455"
+  },
+  {
+    "query_id": "q201",
+    "question": "Şərurda ot tayalarında necə tez yanğın söndürülüb?",
+    "relevant_doc_id": "6138290"
+  },
+  {
+    "query_id": "q202",
+    "question": "Maxta və Yuxarı Daşarxda yanğın nəticələri nə qədər olub?",
+    "relevant_doc_id": "6138290"
+  },
+  {
+    "query_id": "q203",
+    "question": "Şərur rayonunda quru otların yanmasının qarşısı necə alınıb",
+    "relevant_doc_id": "6138290"
+  },
+  {
+    "query_id": "q204",
+    "question": "Şərur yanğın hadisəsi məlumatları və nəticələri",
+    "relevant_doc_id": "6138290"
+  },
+  {
+    "query_id": "q205",
+    "question": "AÇG-dən dövlət fondu nə qədər gəlir əldə edib və niyə azalıb",
+    "relevant_doc_id": "8232315"
+  },
+  {
+    "query_id": "q206",
+    "question": "ARDNF-in AÇG gəlirlərinin 2024-cü ildə azalmasının səbəbləri necədir",
+    "relevant_doc_id": "8232315"
+  },
+  {
+    "query_id": "q207",
+    "question": "Azəri-Çıraq-Günəşli blokunun yeni 2050 müqaviləsinin təsviri",
+    "relevant_doc_id": "8232315"
+  },
+  {
+    "query_id": "q208",
+    "question": "AÇG gəlirləri 2024 azalma statistikası",
+    "relevant_doc_id": "8232315"
+  },
+  {
+    "query_id": "q209",
+    "question": "ESG üçün vahid rəqəmsal platforma niyə vacibdir?",
+    "relevant_doc_id": "6805386"
+  },
+  {
+    "query_id": "q210",
+    "question": "Azərbaycanın ESG məlumatlarını birləşdirəcək yeni platformanın məqsədi nədir",
+    "relevant_doc_id": "6805386"
+  },
+  {
+    "query_id": "q211",
+    "question": "ESG platformasının yaradılması haqqında xəbər xülasəsi",
+    "relevant_doc_id": "6805386"
+  },
+  {
+    "query_id": "q212",
+    "question": "ESG rəqəmsal platforma təşəbbüsü Azərbaycanda",
+    "relevant_doc_id": "6805386"
+  },
+  {
+    "query_id": "q213",
+    "question": "İyunun 18-21 tarixlərində hansı rayonlarda güclü yağış gözlənilir?",
+    "relevant_doc_id": "5317291"
+  },
+  {
+    "query_id": "q214",
+    "question": "Niyə bəzi ərazilərdə leysan və dolu ehtimalı yüksəkdir və necə hazırlıq görməliyəm?",
+    "relevant_doc_id": "5317291"
+  },
+  {
+    "query_id": "q215",
+    "question": "Meteoroloqların iyun üçün xəbərdarlığında daşqın riski haqqında nə deyilir?",
+    "relevant_doc_id": "5317291"
+  },
+  {
+    "query_id": "q216",
+    "question": "leysan yağış və dolu xəbərdarlığı",
+    "relevant_doc_id": "5317291"
+  },
+  {
+    "query_id": "q217",
+    "question": "Avropa Parlamenti Gürcüstanla bağlı hansı məsələni müzakirə edir?",
+    "relevant_doc_id": "7125467"
+  },
+  {
+    "query_id": "q218",
+    "question": "Niyə Gürcüstanda demokratik vəziyyət müzakirəyə çıxarıldı və nə üçün vacibdir?",
+    "relevant_doc_id": "7125467"
+  },
+  {
+    "query_id": "q219",
+    "question": "Gürcüstanla bağlı Aİ nümayəndəsinin debatından gözləntilər nədir?",
+    "relevant_doc_id": "7125467"
+  },
+  {
+    "query_id": "q220",
+    "question": "Gürcüstan demokratik geriləmə qətnamə səsvermə",
+    "relevant_doc_id": "7125467"
+  },
+  {
+    "query_id": "q221",
+    "question": "Kəlbəcərdə minaya düşmə hadisəsinin təfərrüatı nədir?",
+    "relevant_doc_id": "5836725"
+  },
+  {
+    "query_id": "q222",
+    "question": "Niyə kənd sakinləri minalardan hələ də zərər çəkir və necə qarşısı alınar?",
+    "relevant_doc_id": "5836725"
+  },
+  {
+    "query_id": "q223",
+    "question": "Ağdaban kəndində baş verən minaya düşmə xəbərinin xülasəsi",
+    "relevant_doc_id": "5836725"
+  },
+  {
+    "query_id": "q224",
+    "question": "minaya düşmə Kəlbəcər Ağdaban hadisəsi vəziyyəti",
+    "relevant_doc_id": "5836725"
+  },
+  {
+    "query_id": "q225",
+    "question": "Avtobus marşrutlarının tunel su basması səbəbindən dəyişdirilməsi nə vaxt başladı?",
+    "relevant_doc_id": "7379254"
+  },
+  {
+    "query_id": "q226",
+    "question": "Niyə bəzi Bakı avtobusları Bakı Olimpiya Stadionu ətrafından keçməyərək alternativ yollara yönəldilir?",
+    "relevant_doc_id": "7379254"
+  },
+  {
+    "query_id": "q227",
+    "question": "Koroğlu NMM-dən çıxan marşrutların yeni hərəkət istiqamətinin təsviri",
+    "relevant_doc_id": "7379254"
+  },
+  {
+    "query_id": "q228",
+    "question": "Bakı avtobus marşrut dəyişikliyi tunel su basması",
+    "relevant_doc_id": "7379254"
+  },
+  {
+    "query_id": "q229",
+    "question": "Aztelekom fiber-optik şəbəkə modernləşməsi nə zaman tamamlanacaq?",
+    "relevant_doc_id": "14315617"
+  },
+  {
+    "query_id": "q230",
+    "question": "Şəbəkə infrastrukturunun yenilənməsi Azərbaycana necə üstünlük verəcək?",
+    "relevant_doc_id": "14315617"
+  },
+  {
+    "query_id": "q231",
+    "question": "Azərbaycanın tranzit rəqəmsal dəhlizlərinin möhkəmlənməsi haqqında məlumat",
+    "relevant_doc_id": "14315617"
+  },
+  {
+    "query_id": "q232",
+    "question": "beynəlxalq internet magistralı yenilənməsi layihəsi Azərbaycanda",
+    "relevant_doc_id": "14315617"
+  },
+  {
+    "query_id": "q233",
+    "question": "Şimali Kipr parlamentlərarası işçi qrupunun yaradılmasının məqsədi nədir?",
+    "relevant_doc_id": "4148289"
+  },
+  {
+    "query_id": "q234",
+    "question": "Ersin Tatar İlham Əliyevə təşəkkürünü hansı səbəblərlə bildirib?",
+    "relevant_doc_id": "4148289"
+  },
+  {
+    "query_id": "q235",
+    "question": "Şimali Kipr və Azərbaycan arasında parlament əlaqələrinin güclənməsi haqqında xəbər",
+    "relevant_doc_id": "4148289"
+  },
+  {
+    "query_id": "q236",
+    "question": "Şimali Kipr Azərbaycan əlaqələr işçi qrupu yaradılması",
+    "relevant_doc_id": "4148289"
+  },
+  {
+    "query_id": "q237",
+    "question": "Persival Everett hansı romanına görə mükafat aldı?",
+    "relevant_doc_id": "7920795"
+  },
+  {
+    "query_id": "q238",
+    "question": "Nə üçün Milli kitab mükafatı yalnız ABŞ müəlliflərinə verilir?",
+    "relevant_doc_id": "7920795"
+  },
+  {
+    "query_id": "q239",
+    "question": "Mark Tvenin əsərinə əsaslanan yeni roman haqqında məlumat",
+    "relevant_doc_id": "7920795"
+  },
+  {
+    "query_id": "q240",
+    "question": "Milli kitab mükafatı qalibləri və 10 min dollar mükafatı",
+    "relevant_doc_id": "7920795"
+  },
+  {
+    "query_id": "q241",
+    "question": "İmtahanda telefonla tutulma hallarının nəticələri nə olur?",
+    "relevant_doc_id": "4355571"
+  },
+  {
+    "query_id": "q242",
+    "question": "Nə üçün nəzarətçi imtahanda köçürməyə şərait yaradırdı?",
+    "relevant_doc_id": "4355571"
+  },
+  {
+    "query_id": "q243",
+    "question": "Buraxılış imtahanında qayda pozuntularının araşdırılması necə aparılır",
+    "relevant_doc_id": "4355571"
+  },
+  {
+    "query_id": "q244",
+    "question": "9 illik buraxılış imtahanı telefon halları",
+    "relevant_doc_id": "4355571"
+  },
+  {
+    "query_id": "q245",
+    "question": "2025-ci ildə orqan transplantasiyaları neçə əməliyyat olub?",
+    "relevant_doc_id": "13955150"
+  },
+  {
+    "query_id": "q246",
+    "question": "Niyə bu il buynuz qişa transplantasiyalarında artım müşahidə edildi?",
+    "relevant_doc_id": "13955150"
+  },
+  {
+    "query_id": "q247",
+    "question": "2025-ci ildə uşaqlara və böyüklərə keçirilən transplantasiya əməliyyatları statistikası",
+    "relevant_doc_id": "13955150"
+  },
+  {
+    "query_id": "q248",
+    "question": "orqan transplantasiyaları statistik hesabat 2025 Azərbaycanda",
+    "relevant_doc_id": "13955150"
+  },
+  {
+    "query_id": "q249",
+    "question": "Finex Kredit səhmdarlarının qabaqcadan yığıncağında nələr müzakirə olunacaq?",
+    "relevant_doc_id": "6052476"
+  },
+  {
+    "query_id": "q250",
+    "question": "Niyə Müşahidə Şurasının tərkibi dəyişdirilmək istəyir?",
+    "relevant_doc_id": "6052476"
+  },
+  {
+    "query_id": "q251",
+    "question": "BOKT-un rəhbərliyindəki dəyişikliklərlə bağlı məlumat axtarıram",
+    "relevant_doc_id": "6052476"
+  },
+  {
+    "query_id": "q252",
+    "question": "Finex Kredit səhmdar toplantısı sentyabr 2024 mövzuları",
+    "relevant_doc_id": "6052476"
+  },
+  {
+    "query_id": "q253",
+    "question": "Ukraynaya NATO bənzəri kollektiv müdafiə təklifi nə deməkdir?",
+    "relevant_doc_id": "12023472"
+  },
+  {
+    "query_id": "q254",
+    "question": "Niyə Rusiyanın razılığı ilə təhlükəsizlik zəmanəti təklif edildi?",
+    "relevant_doc_id": "12023472"
+  },
+  {
+    "query_id": "q255",
+    "question": "Ukraynaya 5-ci maddəyə oxşar müdafiə zəmanəti təklifi xəbəri necə izah olunur",
+    "relevant_doc_id": "12023472"
+  },
+  {
+    "query_id": "q256",
+    "question": "Ukraynaya kollektiv müdafiə zəmanəti təklifi",
+    "relevant_doc_id": "12023472"
+  },
+  {
+    "query_id": "q257",
+    "question": "Havayda sunami xəbərdarlığı nə vaxt qüvvəyə minib və kim elan edib?",
+    "relevant_doc_id": "11821329"
+  },
+  {
+    "query_id": "q258",
+    "question": "Sakit Okeanda 8.7 maqnitudalı zəlzələ necə geniş ərazilərə təsir edə bilər?",
+    "relevant_doc_id": "11821329"
+  },
+  {
+    "query_id": "q259",
+    "question": "Yaponiyanın sahilyanı ərazilərindən insanları təxliyə etməsi xəbəri",
+    "relevant_doc_id": "11821329"
+  },
+  {
+    "query_id": "q260",
+    "question": "sunami və sahil təxliyəsi təcili tədbirlər qaydaları",
+    "relevant_doc_id": "11821329"
+  },
+  {
+    "query_id": "q261",
+    "question": "Finlandiyada sərhəd mühafizəsi təlimlərinin məqsədi nədir?",
+    "relevant_doc_id": "8780199"
+  },
+  {
+    "query_id": "q262",
+    "question": "Rusiya ilə sərhəd yaxınlığında keçirilən təlimlər necə təşkil olunur?",
+    "relevant_doc_id": "8780199"
+  },
+  {
+    "query_id": "q263",
+    "question": "Finlandiyada İmatra və Virolahtidə sərhəd təlimləri barədə məlumat",
+    "relevant_doc_id": "8780199"
+  },
+  {
+    "query_id": "q264",
+    "question": "sərhəd mühafizəsi təlimləri Finlandiya 300 nəfər",
+    "relevant_doc_id": "8780199"
+  },
+  {
+    "query_id": "q265",
+    "question": "Bakıda və Abşeron yarımadasında güclü külək nə vaxt olacaq",
+    "relevant_doc_id": "8723911"
+  },
+  {
+    "query_id": "q266",
+    "question": "Niyə bir sıra rayonlar üçün sarı müraciət elan edildi və nə deməkdir",
+    "relevant_doc_id": "8723911"
+  },
+  {
+    "query_id": "q267",
+    "question": "yanvarın 6-da Azərbaycanda küləyin sürəti və təsirləri barədə məlumat",
+    "relevant_doc_id": "8723911"
+  },
+  {
+    "query_id": "q268",
+    "question": "sarı xəbərdarlıq külək 13.9-20.7 m/san",
+    "relevant_doc_id": "8723911"
+  },
+  {
+    "query_id": "q269",
+    "question": "Finlandiyanın sərhədin bağlı qalmasının əsas səbəbləri nədir?",
+    "relevant_doc_id": "4114154"
+  },
+  {
+    "query_id": "q270",
+    "question": "Finlandiya Rusiyaya dəniz sərhədini hansı qaydada bağladı və niyə?",
+    "relevant_doc_id": "4114154"
+  },
+  {
+    "query_id": "q271",
+    "question": "Hökumətin sığınacaq şərtlərinə dəyişiklik layihəsi haqqında məlumat",
+    "relevant_doc_id": "4114154"
+  },
+  {
+    "query_id": "q272",
+    "question": "Finlandiya sərhəd bağlanması miqrasiya təhlükəsi keyword",
+    "relevant_doc_id": "4114154"
+  },
+  {
+    "query_id": "q273",
+    "question": "Çexiyaya giriş üçün rusiyalılardan hansı sənədlər tələb olunacaq?",
+    "relevant_doc_id": "5581378"
+  },
+  {
+    "query_id": "q274",
+    "question": "Niyə Çexiya biometrik pasportunu rusiyalılara məcburi etdi?",
+    "relevant_doc_id": "5581378"
+  },
+  {
+    "query_id": "q275",
+    "question": "Rusiyalıların Çexiyada biometrik olmayan sənədlərlə vəziyyəti necə dəyişdi?",
+    "relevant_doc_id": "5581378"
+  },
+  {
+    "query_id": "q276",
+    "question": "Çexiya rusiyalılar üçün biomrik pasport tələbi",
+    "relevant_doc_id": "5581378"
+  },
+  {
+    "query_id": "q277",
+    "question": "Luizianada zavod partlayışı ilə bağlı təxliyə nə üçün tələb olundu?",
+    "relevant_doc_id": "12098174"
+  },
+  {
+    "query_id": "q278",
+    "question": "Smitty's Supply sürtkü materialları zavodunda nə baş verdi?",
+    "relevant_doc_id": "12098174"
+  },
+  {
+    "query_id": "q279",
+    "question": "Luiziana ştatında kimlər təxliyə edildi və nə səbəbdən",
+    "relevant_doc_id": "12098174"
+  },
+  {
+    "query_id": "q280",
+    "question": "sürtkü fabriki partlayış xəbər detalları",
+    "relevant_doc_id": "12098174"
+  },
+  {
+    "query_id": "q281",
+    "question": "U-17 güləşçilərimizin Ammanda hansı nəticə göstərdi?",
+    "relevant_doc_id": "6410123"
+  },
+  {
+    "query_id": "q282",
+    "question": "Gənc sərbəst güləşçilərimiz necə dünya medalçıları oldular?",
+    "relevant_doc_id": "6410123"
+  },
+  {
+    "query_id": "q283",
+    "question": "Azərbaycan yığmasının Amman çempionatındakı nəticələrinin qısa xülasəsi",
+    "relevant_doc_id": "6410123"
+  },
+  {
+    "query_id": "q284",
+    "question": "U-17 dünya güləş çempionatı Azərbaycan medalları siyahısı",
+    "relevant_doc_id": "6410123"
+  },
+  {
+    "query_id": "q285",
+    "question": "Orta Dəhliz üzrə multimodal layihənin fəaliyyəti nədir?",
+    "relevant_doc_id": "11921144"
+  },
+  {
+    "query_id": "q286",
+    "question": "Niyə dəhlizdə rəqəmsallaşma yükdaşımalara təsir edir?",
+    "relevant_doc_id": "11921144"
+  },
+  {
+    "query_id": "q287",
+    "question": "Çinlə Azərbaycan arasında qatar yükdaşımalarının artımı barədə məlumat",
+    "relevant_doc_id": "11921144"
+  },
+  {
+    "query_id": "q288",
+    "question": "Orta Dəhliz blok-qatar statistikasının 2024 göstəriciləri",
+    "relevant_doc_id": "11921144"
+  },
+  {
+    "query_id": "q289",
+    "question": "Yakutiyada meteorun düşməsi zamanı nə müşahidə edildi?",
+    "relevant_doc_id": "8180517"
+  },
+  {
+    "query_id": "q290",
+    "question": "Niyə asteroid Olekminsk və Lensk arasında parçalandı?",
+    "relevant_doc_id": "8180517"
+  },
+  {
+    "query_id": "q291",
+    "question": "Yakutiyada meteoritin yerli videoya düşməsi xəbərinin xülasəsi",
+    "relevant_doc_id": "8180517"
+  },
+  {
+    "query_id": "q292",
+    "question": "Yakutiyada asteroid təsiri hadisəsi videoları",
+    "relevant_doc_id": "8180517"
+  },
+  {
+    "query_id": "q293",
+    "question": "Gümrü-Qars dəmir yolunun işə salınması üçün hansı addımlar atılacaq?",
+    "relevant_doc_id": "7324186"
+  },
+  {
+    "query_id": "q294",
+    "question": "Niyə Ermənistan və Türkiyə texniki tələbləri birlikdə yoxlamalıdır?",
+    "relevant_doc_id": "7324186"
+  },
+  {
+    "query_id": "q295",
+    "question": "Gümrü-Qars rels xəttinin texniki yoxlanışı barədə xəbərin xülasəsi",
+    "relevant_doc_id": "7324186"
+  },
+  {
+    "query_id": "q296",
+    "question": "Gümrü-Qars dəmir yolu əməkdaşlıq planı",
+    "relevant_doc_id": "7324186"
+  }
+]
