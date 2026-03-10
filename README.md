@@ -195,3 +195,6 @@ Hybrid      0.79    0.89     0.68
 ```
 
 These values are example numbers; your final results depend on your dataset and query set.
+
+
+python experiments/run_experiments.py --use-corpora-apa --queries-path data/queries_merged.json --embedding-backend faiss --k-values 5,10 --hybrid-alpha 0.5 --model-name sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
